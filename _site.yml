@@ -1,0 +1,7 @@
+name: "Yavin Base"
+output_dir: "."
+navbar:
+  title: "Yavin Base"
+  left:
+    - text: "Home"
+      href: index.html
